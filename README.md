@@ -1,3 +1,6 @@
+Early Stages Pracitceing 
+
+
 # MultiModal AI Chat App
 
 A modern, multimodal AI chat interface supporting multiple models, with a responsive, improved UI inspired by leading chat apps. Built with HTML, JavaScript, and Bootstrap for a seamless experience.
